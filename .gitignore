@@ -1,0 +1,18 @@
+# Visual Studio / .NET
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build and Publish outputs
+publish/
+[Ll]ogs/
+log-*.txt
+
+# Sensitive configuration files containing passwords or credentials
+appsettings.json
+appsettings.Development.json
+!appsettings.example.json

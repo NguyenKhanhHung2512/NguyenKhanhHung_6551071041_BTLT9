@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Bai5": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "APP_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

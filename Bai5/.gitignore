@@ -1,0 +1,9 @@
+bin/
+obj/
+.vs/
+Logs/
+*.user
+# File cấu hình thật (chứa connection string) không đưa lên Git – dùng appsettings.example.json làm mẫu
+appsettings.json
+appsettings.Development.json
+!appsettings.example.json

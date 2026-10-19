@@ -1,0 +1,6 @@
+bin/
+obj/
+.vs/
+Logs/
+appsettings.Production.json
+Properties/PublishProfiles/*Local.pubxml
